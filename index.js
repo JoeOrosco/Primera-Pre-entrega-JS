@@ -1,5 +1,5 @@
 
-alert("Bienvenido a Home Recreation CAME HOUSE 🏡")
+alert("Bienvenido a: Home Recreation CAME HOUSE 🏡")
 
 const crearReservaHabitacion = () => {
     let nombre 
