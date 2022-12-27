@@ -54,7 +54,7 @@ const crearReservaHabitacion = () => {
            crearReservaComida()
         }
 
-        otraReserva = confirm("¿Quiere reservar otra habitación para otra persona? 😇")
+        otraReserva = confirm("¿Quiere hacer otra reservación? 😇")
         alert("😁 Gracias por hacer su reserva en Home Recreation CAME HOUSE 🏡")
 
     } while (otraReserva);   
