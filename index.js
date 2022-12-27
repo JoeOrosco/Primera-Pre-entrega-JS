@@ -1,5 +1,5 @@
 
-alert("Bienvenido a: Home Recreation CAME HOUSE 🏡")
+alert("Bienvenido a: Home Recreation CAME HOUSE 🏡 \n Haz Click! en Aceptar para hacer su reserva 😇")
 
 const crearReservaHabitacion = () => {
     let nombre 
@@ -19,7 +19,7 @@ const crearReservaHabitacion = () => {
                 apellido = prompt("Ingrese su apellido:")
         } 
     
-        reservar = parseInt(prompt(`Bienvenido ${nombre} ${apellido} a: Home Recreation CAME HOUSE 🏡 
+        reservar = parseInt(prompt(`Bienvenido ${nombre}${apellido} a: Home Recreation CAME HOUSE 🏡 
         Ingrese 1 -> Para reservar una habitación 🏡
         Ingrese 2 -> Para hacer su reserva gastronómica 🍰
         `))
